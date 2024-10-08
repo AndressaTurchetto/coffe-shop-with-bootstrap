@@ -3,7 +3,6 @@ body {
   --marrom-escuro: #816D4F;
   --marrom-claro: #B29463;
   font-family: 'Barlow', sans-serif;
-
 }
 
 input[type=checkbox] {
@@ -17,6 +16,10 @@ input[type="checkbox"]:focus {
   border-color: var(--marrom-claro);
   box-shadow: none;
   outline: none;
+}
+
+h2 {
+  font-family: "Fraunces", serif;
 }
 
 .banner-1 {
